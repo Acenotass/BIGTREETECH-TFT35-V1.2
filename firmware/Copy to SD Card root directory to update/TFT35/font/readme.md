@@ -14,7 +14,7 @@ byte-times.fon - Original Fixed Times Font
 
 byte-coder.fon - Coder Font
 
-byte-ubuntu.fon - Ubintu Font
+byte-ubuntu.fon - Ubuntu Font
 
 byte-thin.fon - Helvetica Thin Font
 
