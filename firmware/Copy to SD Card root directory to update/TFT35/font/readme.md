@@ -18,4 +18,4 @@ byte-ubuntu.fon - Ubuntu Font
 
 byte-thin.fon - Helvetica Thin Font
 
-byte-thin-italic.fon - Helvetica Thin Inalic Font
+byte-thin-italic.fon - Helvetica Thin Italic Font
