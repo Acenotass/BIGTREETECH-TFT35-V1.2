@@ -7,3 +7,5 @@ the "word.fon" is the bitmap fonts of GBK
 "word.fon" fonts size: 24*24
 
 Scan direction: form UP to DOWN, from LEFT to RIGHT
+
+Just rename custom fonts for byte.fon
