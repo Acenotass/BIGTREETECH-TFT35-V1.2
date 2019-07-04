@@ -9,3 +9,8 @@ the "word.fon" is the bitmap fonts of GBK
 Scan direction: form UP to DOWN, from LEFT to RIGHT
 
 Just rename custom fonts for byte.fon
+byte-times.fon - Original Fixed Times Font
+byte-coder.fon - Coder Font
+byte-ubuntu.fon - Ubintu Font
+byte-thin.fon - Helvetica Thin Font
+byte-thin-italic.fon - Helvetica Thin Inalic Font
